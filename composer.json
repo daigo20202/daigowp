@@ -1,0 +1,12 @@
+{
+    "name": "daigo20202/daigowp",
+    "authors": [
+        {
+            "name": "daigo20202",
+            "email": "daigo2020202@gmail.com"
+        }
+    ],
+    "require": {
+        "jenssegers/blade": "^1.3"
+    }
+}
